@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/YuriyVolodin/MyHW4.0.2.1/actions/workflows/gradle.yml/badge.svg)](https://github.com/YuriyVolodin/MyHW4.0.2.1/actions/workflows/gradle.yml)
+[![Java CI with Gradle](https://github.com/YuriyVolodin/MyHW4.0.2.1/actions/workflows/gradle.yml/badge.svg?branch=Main)](https://github.com/YuriyVolodin/MyHW4.0.2.1/actions/workflows/gradle.yml)
